@@ -11,7 +11,7 @@ ms.collection:
 
 # Connect to remote Microsoft Entra joined device
 
-Windows supports remote connections to devices joined to Active Directory s well as devices joined to Microsoft Entra ID using Remote Desktop Protocol (RDP).
+Windows supports remote connections to devices joined to Active Directory as well as devices joined to Microsoft Entra ID using Remote Desktop Protocol (RDP).
 
 - Starting in Windows 10, version 1809, you can [use biometrics to authenticate to a remote desktop session](/windows/whats-new/whats-new-windows-10-version-1809#remote-desktop-with-biometrics).
 - Starting in Windows 10/11, with 2022-10 update installed, you can [use Microsoft Entra authentication to connect to the remote Microsoft Entra device](#connect-with-microsoft-entra-authentication).
